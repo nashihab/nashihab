@@ -1,10 +1,13 @@
 <!-- **NA-Shihab/NA-Shihab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
-<img src="/robo.gif" align="center" height="" width="350" />
- Hola! I'm Nahid Ahmed
+<img src="/robo.gif" align="center" height="" width="170" />
 </div>  
 
+<div align="center" >
+ Hola! I'm Nahid Ahmed
+ 
+</div>
 
 # About Me:
 I'm currently doing my BSc in electrical and electronic engineering. I love coding as a hobby and developing new projects.
