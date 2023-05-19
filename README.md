@@ -1,7 +1,7 @@
 <!-- **NA-Shihab/NA-Shihab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <div align="center">
-<img src="/robo.gif" align="center" height="" width="350" />
+<img src="/robo.GIF" align="center" height="" width="350" />
 </div>  
 
 
