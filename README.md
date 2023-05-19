@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-I'm Currently doing my BSc in Electrical and Electronic Engineering
+I'm currently doing my BSc in electrical and electronic engineering. I love coding as a hobby and developing new projects.
+Ariggatto
 
 
 ## 🌐 Socials:
@@ -38,7 +39,7 @@ I'm Currently doing my BSc in Electrical and Electronic Engineering
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="![image](https://github.com/NA-Shihab/NA-Shihab/assets/82781075/7d0891b1-f51a-4126-a257-1a70c8efbc4c)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=na-shihab&icon=5&color=8)](https://visitcount.itsvg.in)
