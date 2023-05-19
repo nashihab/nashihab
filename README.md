@@ -2,8 +2,7 @@
 
 <div align="center">
 <img src="/robo.gif" align="center" height="" width="350" />
-Hola!
-  I'm Nahid Ahmed
+ Hola! I'm Nahid Ahmed
 </div>  
 
 
