@@ -38,8 +38,6 @@ Ariggatto
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="[![image](https://github.com/NA-Shihab/NA-Shihab/assets/82781075/7d0891b1-f51a-4126-a257-1a70c8efbc4c)](https://assets-global.website-files.com/5f3c19f18169b62a0d0bf387/60d33be7eedf8e1f31aabcec_BwENfmI0CU5dZGYlSyo142mpfG08-rYgTS-Qm47uMUXN6JXtmdZvtzVzTooUQdXTWmTD8uzF9N6XQJA2vUIMi53tunFyVtvOBJTNfOjHit2P_JkTmFzFsK7ep6Vb9781XZnRAryH.png)" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=na-shihab&icon=5&color=8)](https://visitcount.itsvg.in)
