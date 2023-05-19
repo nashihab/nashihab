@@ -11,7 +11,7 @@
 
 # About Me:
 I'm currently doing my BSc in electrical and electronic engineering. I love coding as a hobby and developing new projects.
-Ariggatto
+Arigatou gozaimasu
 
 
 ## Socials:
