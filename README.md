@@ -13,7 +13,9 @@
 I'm currently doing my BSc in electrical and electronic engineering. I love coding as a hobby and developing new projects.
 Arigatou gozaimasu
 
-
+## Remember:
+“If you are feeling disheartened, that you are somehow not enough, set your heart ablaze. Dry your eyes and look ahead. You may feel like digging your heels in, but the flow of time waits for no one. It won’t patiently stand by as you grieve.” - Rengoku
+ 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nahidahmedshihab) 
 
