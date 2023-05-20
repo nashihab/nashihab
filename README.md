@@ -36,7 +36,3 @@ Arigatou gozaimasu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=na-shihab&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-
-![snake gif](https://github.com/na-shihab/na-shihab/blob/output/github-contribution-grid-snake.gif)
