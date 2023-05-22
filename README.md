@@ -38,3 +38,8 @@ Arigatou gozaimasu
 
 ---
 [![](https://visitcount.itsvg.in/api?id=na-shihab&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<img src="https://raw.githubusercontent.com/NA-Shihab/NA-Shihab/output/snake.svg" alt="Snake animation" />
+
+###
