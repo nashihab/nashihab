@@ -7,7 +7,8 @@
 <div align="center" >
  Hola! I'm Nahid Ahmed
 </div>
-# About Me:
+
+## About Me:
 I'm currently doing my BSc in electrical and electronic engineering. I love coding as a hobby and developing new projects.
 Arigatou gozaimasu
 
