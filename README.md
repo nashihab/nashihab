@@ -23,12 +23,12 @@ Arigatou gozaimasu
 
 
 ##  GitHub Stats:
-![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=NA-Shihab&show_icons=true&theme=gruvbox)<br>
+![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAShihab&show_icons=true&theme=gruvbox)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=na-shihab&theme=gotham&hide_border=false)<br>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NA-Shihab&layout=compact&show_icons=true&theme=algolia&border_radius=20)<br/>
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAShihab&layout=compact&show_icons=true&theme=algolia&border_radius=20)<br/>
 
 ##  GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=na-shihab&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nashihab&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 
 ###  Random Dev Quote
@@ -36,7 +36,7 @@ Arigatou gozaimasu
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=na-shihab&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=nashihab&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
