@@ -24,7 +24,7 @@ Arigatou gozaimasu
 
 ##  GitHub Stats:
 ![Nahid's GitHub stats](https://github-readme-stats.vercel.app/api?username=NAShihab&show_icons=true&theme=gruvbox)<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=na-shihab&theme=gotham&hide_border=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nashihab&theme=gotham&hide_border=false)<br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NAShihab&layout=compact&show_icons=true&theme=algolia&border_radius=20)<br/>
 
 ##  GitHub Trophies
