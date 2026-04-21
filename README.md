@@ -5,7 +5,7 @@
 </div>  
 <br>
 <div align="center" >
- Hola! I'm Nahid Ahmed
+ Hola! I'm Nahid Ahmed Shihab
 </div>
 
 ## About Me:
