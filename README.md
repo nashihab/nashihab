@@ -57,18 +57,7 @@ Hi, I'm **nashihab**.
     <img src="https://www.gitskins.com/api/section/social?username=nashihab&theme=neon" alt="nashihab social section" />
   </picture>
 </p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nashihab&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=nashihab&theme=neon" alt="nashihab hero section" />
-  </picture>
-</p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=nashihab&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=nashihab&theme=neon" alt="nashihab stats section" />
-  </picture>
-</p>
+
 
 <p align="center">
 <picture>
