@@ -1,9 +1,4 @@
 # nashihab
-
-> Maintainer credibility and contributor clarity.
-
-**Theme:** Neon · **Style:** Detailed · **Agent:** Full-Stack Engineer
-
 ## Header
 Hi, I'm **nashihab**. This README is tuned for **open source** with a Neon visual system.
 <p align="center">
