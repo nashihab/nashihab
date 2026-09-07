@@ -1,5 +1,5 @@
 # nashihab
-Hi, I'm **nashihab**.
+Hi, I'm **Nahid Ahmed Shihab**.
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nashihab&theme=neon&mode=light" />
