@@ -1,5 +1,5 @@
 <!-- =========================
-     HERO — KEEPING YOUR ORIGINAL BANNER
+      BANNER
      ========================= -->
 
 <p align="center">
@@ -143,7 +143,7 @@ AI / ML
 
 <p align="center">
 
-`RTL → Netlist → Floorplan → Placement → CTS → Routing → Signoff`
+`RTL → Netlist → Floorplan → Placement → CTS → Routing → Signoff → GDSII`
 
 </p>
 
