@@ -141,11 +141,7 @@ AI / ML
 
 <h2 align="center">⌬ CURRENTLY BUILDING</h2>
 
-<p align="center">
-
-`RTL → Netlist → Floorplan → Placement → CTS → Routing → Signoff → GDSII`
-
-</p>
+<p align="center"> `RTL → Netlist → Floorplan → Placement → CTS → Routing → Signoff → GDSII` </p>
 
 <p align="center">
   <img
