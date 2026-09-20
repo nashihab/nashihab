@@ -249,23 +249,39 @@ ESP-based vending systems · RFID/NFC · SQLite · HIL
 <br>
 
 <!-- =========================
-     GITHUB STATS
+     GITHUB
      ========================= -->
 
 <h2 align="center">📊 GITHUB</h2>
 
 <p align="center">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=nashihab&show_icons=true&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github"
-    alt="GitHub statistics">
+    src="https://github-readme-stats.vercel.app/api?username=nashihab&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github"
+    alt="GitHub Statistics"
+    height="180">
   <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashihab&layout=compact&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=8B949E&langs_count=8"
-    alt="Top languages">
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashihab&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&langs_count=8"
+    alt="Top Languages"
+    height="180">
 </p>
 
 <br>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nashihab&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
+    alt="GitHub Activity Graph">
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    width="95%"
+    src="https://github-profile-trophy.vercel.app/?username=nashihab&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
+    alt="GitHub Trophies">
+</p>
 
 <!-- =========================
      CONTRIBUTION ACTIVITY
