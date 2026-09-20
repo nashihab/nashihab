@@ -222,7 +222,7 @@ ESP-based vending systems
   <sub>✦ ───────────────────────────── ✦</sub>
 </p>
 
-<h2>Built, shipped, shared</h2>
+<h2>Built, shared</h2>
 
 <picture>
   <source
