@@ -397,8 +397,3 @@ Automation · Hardware
 <p align="center">
   <sub>Circuits. Silicon. Code. Repeat.</sub>
 </p>
-
-
-
-
-[![nashihab's animated GitSkins profile](https://www.gitskins.com/api/section/hero?username=nashihab&theme=satan&style=aura)](https://www.gitskins.com/showcase/nashihab?skin=inferno)
