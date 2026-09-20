@@ -256,31 +256,32 @@ ESP-based vending systems · RFID/NFC · SQLite · HIL
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nashihab&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E&rank_icon=github"
-    alt="GitHub Statistics"
-    height="180">
+    src="./assets/github-stats.svg"
+    height="180"
+    alt="GitHub statistics">
+
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nashihab&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&langs_count=8"
-    alt="Top Languages"
-    height="180">
+    src="./assets/top-languages.svg"
+    height="180"
+    alt="Top languages">
 </p>
 
 <br>
 
 <p align="center">
   <img
+    src="./assets/activity.svg"
     width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nashihab&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub Activity Graph">
+    alt="GitHub activity">
 </p>
 
 <br>
 
 <p align="center">
   <img
+    src="./assets/trophies.svg"
     width="95%"
-    src="https://github-profile-trophy.vercel.app/?username=nashihab&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
-    alt="GitHub Trophies">
+    alt="GitHub achievements">
 </p>
 
 <!-- =========================
