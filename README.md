@@ -1,6 +1,6 @@
 <!-- =========================================================
      NAHID AHMED SHIHAB — GITHUB PROFILE
-     One-file README • no Actions • no assets • no generators
+     One-file README
      ========================================================= -->
 
 <!-- =========================
@@ -24,10 +24,6 @@
 
 <br>
 
-<!-- =========================
-     INTRO
-     ========================= -->
-
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=IC+Physical+Design+Engineer;PnR+%7C+CTS+%7C+MMMC+%7C+Timing;Embedded+Systems+%7C+IoT+%7C+Robotics;VLSI+%7C+Automation+%7C+Hardware;RTL+%E2%86%92+GDSII"
@@ -45,7 +41,7 @@
 <br>
 
 <!-- =========================
-     WHO AM I
+     IDENTITY
      ========================= -->
 
 <table align="center">
@@ -113,7 +109,7 @@ Shell · AI / ML
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IC%20Physical%20Design-0d1117?style=for-the-badge&logoColor=58A6FF">
+  <img src="https://img.shields.io/badge/IC%20Physical%20Design-0d1117?style=for-the-badge">
   <img src="https://img.shields.io/badge/PnR-0d1117?style=for-the-badge">
   <img src="https://img.shields.io/badge/CTS-0d1117?style=for-the-badge">
   <img src="https://img.shields.io/badge/MMMC-0d1117?style=for-the-badge">
@@ -139,7 +135,7 @@ Shell · AI / ML
 <br>
 
 <!-- =========================
-     PHYSICAL DESIGN
+     IC PHYSICAL DESIGN
      ========================= -->
 
 <h2 align="center">⌬ IC PHYSICAL DESIGN</h2>
@@ -175,12 +171,6 @@ Project Lead
 `OBC` · `EPS` · `COM` · `Payload`
 `Ground Station` · `Telemetry`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Space-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/Embedded-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/Telemetry-0d1117?style=flat-square">
-</p>
-
 </td>
 
 <td width="50%" valign="top">
@@ -191,12 +181,6 @@ UAV · UGV · ROV
 
 `IMU` · `GPS` · `LiDAR`
 `Encoders` · `ROS` · `Gazebo`
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Robotics-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/ROS-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square">
-</p>
 
 </td>
 
@@ -212,11 +196,6 @@ UAV · UGV · ROV
 
 **95.67% measured efficiency**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20Electronics-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/EV-0d1117?style=flat-square">
-</p>
-
 </td>
 
 <td width="50%" valign="top">
@@ -228,11 +207,83 @@ ESP-based vending systems
 `RFID/NFC` · `SQLite` · `HIL`
 `Firmware` · `Control` · `Power`
 
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- =========================================================
+     WOW PROFILE — PROJECT CONSTELLATION
+     ========================================================= -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/IoT-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/Firmware-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square">
+  <sub>✦ ───────────────────────────── ✦</sub>
 </p>
+
+<h2>Built, shipped, shared</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos=nashihab%2Fpersonaltracker%2Cnashihab%2Fdatabase_laptop%2Cnashihab%2Fme%2Cnashihab%2Ftest.IOT-blyink&amp;variant=wow&amp;v=wow-projects-1&amp;mode=light">
+  <img
+    width="100%"
+    alt="Nahid Ahmed Shihab animated project constellation"
+    src="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos=nashihab%2Fpersonaltracker%2Cnashihab%2Fdatabase_laptop%2Cnashihab%2Fme%2Cnashihab%2Ftest.IOT-blyink&amp;variant=wow&amp;v=wow-projects-1&amp;mode=dark">
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos=nashihab%2Fpersonaltracker%2Cnashihab%2Fdatabase_laptop%2Cnashihab%2Fme%2Cnashihab%2Ftest.IOT-blyink&amp;variant=wow-timeline&amp;v=wow-timeline-1&amp;mode=light">
+  <img
+    width="100%"
+    alt="Nahid Ahmed Shihab animated project launch timeline"
+    src="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos=nashihab%2Fpersonaltracker%2Cnashihab%2Fdatabase_laptop%2Cnashihab%2Fme%2Cnashihab%2Ftest.IOT-blyink&amp;variant=wow-timeline&amp;v=wow-timeline-1&amp;mode=dark">
+</picture>
+
+<table width="100%">
+<tr>
+
+<td width="25%">
+
+<p><strong><a href="https://github.com/nashihab/personaltracker">personaltracker</a></strong></p>
+
+<p>Personal Daily log book</p>
+
+<p><sub>Jupyter Notebook · ⭐ 0</sub></p>
+
+</td>
+
+<td width="25%">
+
+<p><strong><a href="https://github.com/nashihab/database_laptop">database_laptop</a></strong></p>
+
+<p>A selected project from this public body of work.</p>
+
+<p><sub>Open source · ⭐ 0</sub></p>
+
+</td>
+
+<td width="25%">
+
+<p><strong><a href="https://github.com/nashihab/me">me</a></strong></p>
+
+<p>A selected project from this public body of work.</p>
+
+<p><sub>CSS · ⭐ 1</sub></p>
+
+</td>
+
+<td width="25%">
+
+<p><strong><a href="https://github.com/nashihab/test.IOT-blyink">test.IOT-blyink</a></strong></p>
+
+<p>A selected project from this public body of work.</p>
+
+<p><sub>C++ · ⭐ 0</sub></p>
 
 </td>
 
@@ -241,9 +292,61 @@ ESP-based vending systems
 
 <br>
 
+<!-- =========================================================
+     WOW PROFILE — MOMENTUM
+     ========================================================= -->
+
+<p align="center">
+  <sub>✦ ───────────────────────────── ✦</sub>
+</p>
+
+<h2>Momentum, made visible</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/stats?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;variant=wow&amp;v=wow-stats-1&amp;mode=light">
+  <img
+    width="100%"
+    alt="Nahid Ahmed Shihab animated GitHub signal"
+    src="https://www.gitskins.com/api/section/stats?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;variant=wow&amp;v=wow-stats-1&amp;mode=dark">
+</picture>
+
+<br>
+
+<!-- =========================================================
+     WOW PROFILE — TRAIL
+     ========================================================= -->
+
+<p align="center">
+  <sub>✦ ───────────────────────────── ✦</sub>
+</p>
+
+<h2>The trail behind the work</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://www.gitskins.com/api/section/heatmap?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;variant=wow&amp;v=wow-heatmap-1&amp;mode=light">
+  <img
+    width="100%"
+    alt="Nahid Ahmed Shihab contribution energy field"
+    src="https://www.gitskins.com/api/section/heatmap?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;variant=wow&amp;v=wow-heatmap-1&amp;mode=dark">
+</picture>
+
+<p align="center">
+  <sub>Contribution activity · the work leaves a trail.</sub>
+</p>
+
+<br>
+
 <!-- =========================
-     CONTRIBUTION GAME
+     SPACE SHOOTER
      ========================= -->
+
+<p align="center">
+  <sub>✦ ───────────────────────────── ✦</sub>
+</p>
 
 <h2 align="center">🕹️ CONTRIBUTION MODE</h2>
 
@@ -256,30 +359,6 @@ ESP-based vending systems
 
 <p align="center">
   <sub>Destroying bugs one contribution at a time.</sub>
-</p>
-
-<br>
-
-<!-- =========================
-     GITHUB SNAPSHOT
-     ========================= -->
-
-<h2 align="center">◈ GITHUB SNAPSHOT</h2>
-
-<p align="center">
-
-<a href="https://github.com/nashihab?tab=repositories">
-  <img src="https://img.shields.io/badge/REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF">
-</a>
-
-<a href="https://github.com/nashihab?tab=stars">
-  <img src="https://img.shields.io/badge/OPEN%20SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF">
-</a>
-
-<a href="https://github.com/nashihab">
-  <img src="https://img.shields.io/badge/BUILD%20%7C%20BREAK%20%7C%20FIX-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF">
-</a>
-
 </p>
 
 <br>
@@ -359,10 +438,6 @@ Automation · Hardware
 </p>
 
 <br>
-
-<!-- =========================
-     FOOTER
-     ========================= -->
 
 <p align="center">
   <img
