@@ -215,7 +215,7 @@ ESP-based vending systems
 <br>
 
 <!-- =========================================================
-     WOW PROFILE — PROJECT CONSTELLATION
+    PROJECT CONSTELLATION
      ========================================================= -->
 
 <p align="center">
@@ -293,7 +293,7 @@ ESP-based vending systems
 <br>
 
 <!-- =========================================================
-     WOW PROFILE — MOMENTUM
+     MOMENTUM
      ========================================================= -->
 
 <p align="center">
