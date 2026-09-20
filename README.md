@@ -1,5 +1,10 @@
+<!-- =========================================================
+     NAHID AHMED SHIHAB — GITHUB PROFILE
+     One-file README • no Actions • no assets • no generators
+     ========================================================= -->
+
 <!-- =========================
-      BANNER
+     HERO — ORIGINAL BANNER
      ========================= -->
 
 <p align="center">
@@ -19,57 +24,55 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/nashihab">
-    <img src="https://komarev.com/ghpvc/?username=nashihab&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS">
-  </a>
-  <img src="https://img.shields.io/github/followers/nashihab?style=for-the-badge&color=0d1117&label=FOLLOWERS">
-  <img src="https://img.shields.io/github/stars/nashihab?style=for-the-badge&color=0d1117&label=STARS">
-</p>
-
-<br>
-
 <!-- =========================
-     TYPING INTRO
+     INTRO
      ========================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=IC+Physical+Design+Engineer;PnR+%7C+CTS+%7C+MMMC+%7C+Timing;Embedded+Systems+%7C+IoT+%7C+Robotics;VLSI+%7C+Automation+%7C+Hardware;Building+things+that+actually+work."
-    alt="Typing introduction">
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=IC+Physical+Design+Engineer;PnR+%7C+CTS+%7C+MMMC+%7C+Timing;Embedded+Systems+%7C+IoT+%7C+Robotics;VLSI+%7C+Automation+%7C+Hardware;RTL+%E2%86%92+GDSII"
+    alt="Nahid Ahmed Shihab">
+</p>
+
+<p align="center">
+  <a href="https://github.com/nashihab">
+    <img src="https://komarev.com/ghpvc/?username=nashihab&style=flat-square&color=58A6FF&label=PROFILE+VIEWS">
+  </a>
+  <img src="https://img.shields.io/github/followers/nashihab?style=flat-square&label=FOLLOWERS&color=161b22&labelColor=0d1117">
+  <img src="https://img.shields.io/github/stars/nashihab?style=flat-square&label=STARS&color=161b22&labelColor=0d1117">
 </p>
 
 <br>
 
 <!-- =========================
-     QUICK IDENTITY
+     WHO AM I
      ========================= -->
 
 <table align="center">
 <tr>
-<td align="center" width="180">
+<td align="center" width="210">
 
 ### ⚡
 
 **IC Physical Design**
 
-PnR · CTS · MMMC
-Timing · PV
+PnR · CTS
+MMMC · STA · PV
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="210">
 
-### ⚙️
+### 🔧
 
 **Embedded Systems**
 
 Firmware · Hardware
-MCU · IoT
+IoT · Control
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="210">
 
 ### 🛰️
 
@@ -80,14 +83,14 @@ UAV · UGV · ROV
 
 </td>
 
-<td align="center" width="180">
+<td align="center" width="210">
 
-### 🧠
+### ⚙️
 
 **Automation**
 
-Python · Tcl · Shell
-AI / ML
+Python · Tcl
+Shell · AI / ML
 
 </td>
 </tr>
@@ -102,73 +105,60 @@ AI / ML
 <h2 align="center">⚔️ TECH ARSENAL</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,verilog,javascript,html,css,scss&perline=8&theme=dark">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,verilog,javascript,html,css,scss&perline=8&theme=dark" alt="Programming stack">
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github,vscode,matlab,opencv&perline=8&theme=dark">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux,git,github,vscode,matlab,opencv&perline=8&theme=dark" alt="Engineering stack">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IC%20Physical%20Design-0d1117?style=for-the-badge&logo=chip&logoColor=58A6FF">
-  <img src="https://img.shields.io/badge/PnR-0d1117?style=for-the-badge&logoColor=58A6FF">
-  <img src="https://img.shields.io/badge/MMMC-0d1117?style=for-the-badge&logoColor=58A6FF">
-  <img src="https://img.shields.io/badge/CTS-0d1117?style=for-the-badge&logoColor=58A6FF">
-  <img src="https://img.shields.io/badge/Timing%20Closure-0d1117?style=for-the-badge&logoColor=58A6FF">
+  <img src="https://img.shields.io/badge/IC%20Physical%20Design-0d1117?style=for-the-badge&logoColor=58A6FF">
+  <img src="https://img.shields.io/badge/PnR-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CTS-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/MMMC-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/STA-0d1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GDSII-0d1117?style=for-the-badge">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20C-0d1117?style=for-the-badge&logo=c&logoColor=A8B9CC">
-  <img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif&logoColor=E7352C">
-  <img src="https://img.shields.io/badge/STM32-0d1117?style=for-the-badge&logo=stmicroelectronics&logoColor=03234B">
-  <img src="https://img.shields.io/badge/Altium-0d1117?style=for-the-badge&logo=altiumdesigner&logoColor=A5915F">
-  <img src="https://img.shields.io/badge/KiCad-0d1117?style=for-the-badge&logo=kicad&logoColor=314CB6">
+  <img src="https://img.shields.io/badge/Embedded%20C-0d1117?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/ESP32-0d1117?style=for-the-badge&logo=espressif">
+  <img src="https://img.shields.io/badge/STM32-0d1117?style=for-the-badge&logo=stmicroelectronics">
+  <img src="https://img.shields.io/badge/Altium-0d1117?style=for-the-badge&logo=altiumdesigner">
+  <img src="https://img.shields.io/badge/KiCad-0d1117?style=for-the-badge&logo=kicad">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ROS-0d1117?style=for-the-badge&logo=ros&logoColor=22314E">
-  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00">
-  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8">
-  <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n&logoColor=EA4B71">
-  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57">
+  <img src="https://img.shields.io/badge/ROS-0d1117?style=for-the-badge&logo=ros">
+  <img src="https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow">
+  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv">
+  <img src="https://img.shields.io/badge/n8n-0d1117?style=for-the-badge&logo=n8n">
 </p>
 
 <br>
 
 <!-- =========================
-     CURRENT FOCUS
+     PHYSICAL DESIGN
      ========================= -->
 
-<h2 align="center">⌬ CURRENTLY BUILDING</h2>
-
-<p align="center"> RTL → Netlist → Floorplan → Placement → CTS → Routing → Signoff → GDSII </p>
+<h2 align="center">⌬ IC PHYSICAL DESIGN</h2>
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=3&section=header"
-    width="70%">
+    src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=55&text=RTL%20%E2%86%92%20NETLIST%20%E2%86%92%20FLOORPLAN%20%E2%86%92%20PLACEMENT%20%E2%86%92%20CTS%20%E2%86%92%20ROUTING%20%E2%86%92%20SIGNOFF%20%E2%86%92%20GDSII&fontColor=58A6FF&fontSize=16&fontAlignY=50&stroke=21262d&strokeWidth=1"
+    width="100%"
+    alt="IC Physical Design flow">
 </p>
 
 <p align="center">
-  <b>IC Physical Design</b>
-  &nbsp;•&nbsp;
-  PnR
-  &nbsp;•&nbsp;
-  CTS
-  &nbsp;•&nbsp;
-  MMMC
-  &nbsp;•&nbsp;
-  SDC
-  &nbsp;•&nbsp;
-  STA
-  &nbsp;•&nbsp;
-  PV
+  <sub>Physical design • timing closure • MMMC • SDC • standard cells • PV</sub>
 </p>
 
 <br>
 
 <!-- =========================
-     SELECTED PROJECTS
+     SELECTED BUILDS
      ========================= -->
 
 <h2 align="center">🚀 SELECTED BUILDS</h2>
@@ -180,29 +170,31 @@ AI / ML
 
 <h3>🛰️ DIPTO Nano-Satellite</h3>
 
-<p>
-Project Lead · OBC · EPS · COM · Payload · Ground Station
-</p>
+Project Lead
+
+`OBC` · `EPS` · `COM` · `Payload`
+`Ground Station` · `Telemetry`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nano--Satellite-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/Telemetry-0d1117?style=flat-square">
+  <img src="https://img.shields.io/badge/Space-0d1117?style=flat-square">
   <img src="https://img.shields.io/badge/Embedded-0d1117?style=flat-square">
+  <img src="https://img.shields.io/badge/Telemetry-0d1117?style=flat-square">
 </p>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>🤖 Robotics & Autonomous Systems</h3>
+<h3>🤖 Robotics Systems</h3>
 
-<p>
-UAV · UGV · ROV · IMU · GPS · LiDAR · Encoders
-</p>
+UAV · UGV · ROV
+
+`IMU` · `GPS` · `LiDAR`
+`Encoders` · `ROS` · `Gazebo`
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Robotics-0d1117?style=flat-square">
   <img src="https://img.shields.io/badge/ROS-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/Gazebo-0d1117?style=flat-square">
   <img src="https://img.shields.io/badge/Computer%20Vision-0d1117?style=flat-square">
 </p>
 
@@ -216,9 +208,9 @@ UAV · UGV · ROV · IMU · GPS · LiDAR · Encoders
 
 <h3>⚡ EV Power Electronics</h3>
 
-<p>
-3.5 kW charger · 95.67% measured efficiency
-</p>
+3.5 kW charger
+
+**95.67% measured efficiency**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Power%20Electronics-0d1117?style=flat-square">
@@ -229,15 +221,16 @@ UAV · UGV · ROV · IMU · GPS · LiDAR · Encoders
 
 <td width="50%" valign="top">
 
-<h3>🔧 Offline IoT Systems</h3>
+<h3>🔧 Offline IoT</h3>
 
-<p>
-ESP-based vending systems · RFID/NFC · SQLite · HIL
-</p>
+ESP-based vending systems
+
+`RFID/NFC` · `SQLite` · `HIL`
+`Firmware` · `Control` · `Power`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/ESP-0d1117?style=flat-square">
-  <img src="https://img.shields.io/badge/RFID-0d1117?style=flat-square">
+  <img src="https://img.shields.io/badge/IoT-0d1117?style=flat-square">
+  <img src="https://img.shields.io/badge/Firmware-0d1117?style=flat-square">
   <img src="https://img.shields.io/badge/Automation-0d1117?style=flat-square">
 </p>
 
@@ -249,51 +242,15 @@ ESP-based vending systems · RFID/NFC · SQLite · HIL
 <br>
 
 <!-- =========================
-     GITHUB
-     ========================= -->
-
-<h2 align="center">📊 GITHUB</h2>
-
-<p align="center">
-  <img
-    src="./assets/github-stats.svg"
-    height="180"
-    alt="GitHub statistics">
-
-  <img
-    src="./assets/top-languages.svg"
-    height="180"
-    alt="Top languages">
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="./assets/activity.svg"
-    width="95%"
-    alt="GitHub activity">
-</p>
-
-<br>
-
-<p align="center">
-  <img
-    src="./assets/trophies.svg"
-    width="95%"
-    alt="GitHub achievements">
-</p>
-
-<!-- =========================
-     CONTRIBUTION ACTIVITY
+     CONTRIBUTION GAME
      ========================= -->
 
 <h2 align="center">🕹️ CONTRIBUTION MODE</h2>
 
 <p align="center">
   <img
-    width="900"
     src="https://www.gitskins.com/showcase/space-shooter.gif"
+    width="900"
     alt="Space Shooter contribution game">
 </p>
 
@@ -303,19 +260,29 @@ ESP-based vending systems · RFID/NFC · SQLite · HIL
 
 <br>
 
-
 <!-- =========================
-     STREAK
+     GITHUB SNAPSHOT
      ========================= -->
 
+<h2 align="center">◈ GITHUB SNAPSHOT</h2>
+
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=nashihab&theme=github-dark-blue&hide_border=true&background=00000000"
-    alt="GitHub streak">
+
+<a href="https://github.com/nashihab?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF">
+</a>
+
+<a href="https://github.com/nashihab?tab=stars">
+  <img src="https://img.shields.io/badge/OPEN%20SOURCE-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF">
+</a>
+
+<a href="https://github.com/nashihab">
+  <img src="https://img.shields.io/badge/BUILD%20%7C%20BREAK%20%7C%20FIX-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF">
+</a>
+
 </p>
 
 <br>
-
 
 <!-- =========================
      CURRENTLY
@@ -323,45 +290,47 @@ ESP-based vending systems · RFID/NFC · SQLite · HIL
 
 <table align="center">
 <tr>
-<td align="center">
 
-`⚡`
+<td align="center" width="220">
 
-**Physical Design**
+`01`
 
-PnR / Timing / MMMC
+**PHYSICAL DESIGN**
 
-</td>
-
-<td align="center">
-
-`🧠`
-
-**Learning**
-
-VLSI / Optoelectronics
+PnR · Timing · MMMC
 
 </td>
 
-<td align="center">
+<td align="center" width="220">
 
-`🛰️`
+`02`
 
-**Building**
+**VLSI**
 
-Hardware / Automation
+GDSII · Signoff
+
+</td>
+
+<td align="center" width="220">
+
+`03`
+
+**LEARNING**
+
+Optoelectronics
 
 </td>
 
-<td align="center">
+<td align="center" width="220">
 
-`☕`
+`04`
 
-**Status**
+**BUILDING**
 
-Probably debugging
+Automation · Hardware
 
 </td>
+
 </tr>
 </table>
 
@@ -371,15 +340,22 @@ Probably debugging
      CONNECT
      ========================= -->
 
-<h2 align="center">⌁ FIND ME</h2>
+<h2 align="center">⌁ CONNECT</h2>
 
 <p align="center">
-  <a href="https://github.com/nashihab">
-    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://nashihab.github.io">
-    <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF">
-  </a>
+
+<a href="https://github.com/nashihab">
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff">
+</a>
+
+<a href="https://www.linkedin.com/in/nashihab/">
+  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+</a>
+
+<a href="https://nashihab.github.io">
+  <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF">
+</a>
+
 </p>
 
 <br>
@@ -391,9 +367,10 @@ Probably debugging
 <p align="center">
   <img
     src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"
-    width="100%">
+    width="100%"
+    alt="">
 </p>
 
 <p align="center">
-  <sub>Built with circuits, silicon, code & questionable amounts of debugging.</sub>
+  <sub>Circuits. Silicon. Code. Repeat.</sub>
 </p>
