@@ -271,9 +271,6 @@ ESP-based vending systems
 <p align="center">
   <sub>Contribution activity · the work leaves a trail.</sub>
 </p>
-
-<br>
-
 <!-- =========================
      SPACE SHOOTER
      ========================= -->
@@ -282,7 +279,7 @@ ESP-based vending systems
   <sub>✦ ───────────────────────────── ✦</sub>
 </p>
 
-<h2 align="center">🕹️ CONTRIBUTION MODE</h2>
+<h2 align="center"> CONTRIBUTION MODE</h2>
 
 <p align="center">
   <img
