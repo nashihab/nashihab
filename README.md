@@ -3,11 +3,11 @@
 <table width="100%">
 <tr>
 <td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · nashihab</sub></p>
+<p><sub> nashihab</sub></p>
 <h1>Nahid Ahmed Shihab</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<h2>IC Physical Design Engineer</h2>
+<p>Just building anything</p>
+<p><strong>Yeah</strong></p>
 
 <p><a href="https://github.com/nashihab">GitHub</a> &nbsp;·&nbsp; <a href="https://nashihab.github.io">Website</a></p>
 </td>
