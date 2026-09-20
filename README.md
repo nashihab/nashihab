@@ -7,13 +7,50 @@
     BANNER
      ========================= -->
 
-label="nashihab README preview"><a href="https://github.com/nashihab">
+<article class="_readmeDocument_1nj35_1590" aria-label="nashihab README preview"><a href="https://github.com/nashihab">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nashihab&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D744c9a15af7f3364a7e631335086b322c6fcb7c6%26v%3D4&amp;variant=space-shooter&amp;v=space-hero-5&amp;mode=light">
   <img width="100%" alt="nashihab animated terminal profile" src="https://www.gitskins.com/api/section/hero?username=nashihab&amp;theme=github-dark&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D744c9a15af7f3364a7e631335086b322c6fcb7c6%26v%3D4&amp;variant=space-shooter&amp;v=space-hero-5&amp;mode=dark">
 </picture>
 </a>
 <a href="https://github.com/nashihab">
+
+</a></article>
+
+
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://www.gitskins.com/api/section/hero?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;variant=living-identity&amp;label=Nahid%20Ahmed%20Shihab&amp;v=wow-living-identity-1&amp;mode=dark">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://www.gitskins.com/api/section/hero?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;variant=living-identity&amp;label=Nahid%20Ahmed%20Shihab&amp;v=wow-living-identity-1&amp;mode=light">
+    <img
+      width="100%"
+      alt="Nahid Ahmed Shihab"
+      src="https://www.gitskins.com/api/section/hero?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;variant=living-identity&amp;label=Nahid%20Ahmed%20Shihab&amp;v=wow-living-identity-1&amp;mode=dark">
+  </picture>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=IC+Physical+Design+Engineer;PnR+%7C+CTS+%7C+MMMC+%7C+Timing;Embedded+Systems+%7C+IoT+%7C+Robotics;VLSI+%7C+Automation+%7C+Hardware;RTL+%E2%86%92+GDSII"
+    alt="Nahid Ahmed Shihab">
+</p>
+
+<p align="center">
+  <a href="https://github.com/nashihab">
+    <img src="https://komarev.com/ghpvc/?username=nashihab&style=flat-square&color=58A6FF&label=PROFILE+VIEWS">
+  </a>
+  <img src="https://img.shields.io/github/followers/nashihab?style=flat-square&label=FOLLOWERS&color=161b22&labelColor=0d1117">
+  <img src="https://img.shields.io/github/stars/nashihab?style=flat-square&label=STARS&color=161b22&labelColor=0d1117">
+</p>
+
+<br>
 
 <!-- =========================
      IDENTITY
