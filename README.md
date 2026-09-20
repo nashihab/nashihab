@@ -302,18 +302,6 @@ ESP-based vending systems · RFID/NFC · SQLite · HIL
 
 <br>
 
-<!-- =========================
-     ACTIVITY GRAPH
-     ========================= -->
-
-<p align="center">
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nashihab&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub activity graph">
-</p>
-
-<br>
 
 <!-- =========================
      STREAK
@@ -327,17 +315,6 @@ ESP-based vending systems · RFID/NFC · SQLite · HIL
 
 <br>
 
-<!-- =========================
-     TROPHIES
-     ========================= -->
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=nashihab&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"
-    alt="GitHub trophies">
-</p>
-
-<br>
 
 <!-- =========================
      CURRENTLY
