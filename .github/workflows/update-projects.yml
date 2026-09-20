@@ -1,0 +1,113 @@
+name: Update Projects
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-projects:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Update project section
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: nashihab
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          import re
+          import urllib.request
+
+          username = os.environ["USERNAME"]
+          token = os.environ["GH_TOKEN"]
+
+          url = (
+              f"https://api.github.com/users/{username}/repos"
+              "?visibility=public&sort=pushed&direction=desc&per_page=10"
+          )
+
+          request = urllib.request.Request(
+              url,
+              headers={
+                  "Accept": "application/vnd.github+json",
+                  "Authorization": f"Bearer {token}",
+              },
+          )
+
+          with urllib.request.urlopen(request) as response:
+              repos = json.load(response)
+
+          # Ignore forks and pick the 4 most recently pushed repositories.
+          repos = [
+              repo for repo in repos
+              if not repo["fork"]
+          ][:4]
+
+          repo_names = ",".join(
+              f"{username}/{repo['name']}" for repo in repos
+          )
+
+          readme = "README.md"
+
+          with open(readme, "r", encoding="utf-8") as f:
+              content = f.read()
+
+          pattern = r"(<!-- PROJECTS_START -->).*?(<!-- PROJECTS_END -->)"
+
+          replacement = f"""<!-- PROJECTS_START -->
+
+          <picture>
+            <source
+              media="(prefers-color-scheme: light)"
+              srcset="https://www.gitskins.com/api/section/projects?username={username}&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos={repo_names.replace(',', '%2C')}&amp;variant=wow&amp;v=wow-projects-1&amp;mode=light">
+            <img
+              width="100%"
+              alt="Nahid Ahmed Shihab animated project constellation"
+              src="https://www.gitskins.com/api/section/projects?username={username}&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos={repo_names.replace(',', '%2C')}&amp;variant=wow&amp;v=wow-projects-1&amp;mode=dark">
+          </picture>
+
+          <picture>
+            <source
+              media="(prefers-color-scheme: light)"
+              srcset="https://www.gitskins.com/api/section/projects?username={username}&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos={repo_names.replace(',', '%2C')}&amp;variant=wow-timeline&amp;v=wow-timeline-1&amp;mode=light">
+            <img
+              width="100%"
+              alt="Nahid Ahmed Shihab animated project launch timeline"
+              src="https://www.gitskins.com/api/section/projects?username={username}&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos={repo_names.replace(',', '%2C')}&amp;variant=wow-timeline&amp;v=wow-timeline-1&amp;mode=dark">
+          </picture>
+
+          <!-- PROJECTS_END -->"""
+
+          updated = re.sub(
+              pattern,
+              replacement,
+              content,
+              flags=re.DOTALL
+          )
+
+          with open(readme, "w", encoding="utf-8") as f:
+              f.write(updated)
+          PY
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+
+          if git diff --cached --quiet; then
+            echo "No project changes."
+          else
+            git commit -m "chore: update recent projects"
+            git push
+          fi
