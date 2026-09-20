@@ -21,19 +21,19 @@
 </table>
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+<h2>---</h2>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · CSS · HTML · JavaScript</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>· CSS · HTML · JavaScript</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>12 repositories · 1 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>28 contributions · 3 active days</p></td>
 </tr>
 </table>
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+<p><sub>----</sub></p>
 
-<h2>Proof at a glance</h2>
+<h2>Repos at a glance</h2>
 
 <table width="100%">
 <tr>
