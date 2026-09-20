@@ -224,74 +224,31 @@ ESP-based vending systems
 
 <h2>Built, shared</h2>
 
+<!-- PROJECTS_START -->
+
 <picture>
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos=nashihab%2Fpersonaltracker%2Cnashihab%2Fdatabase_laptop%2Cnashihab%2Fme%2Cnashihab%2Ftest.IOT-blyink&amp;variant=wow&amp;v=wow-projects-1&amp;mode=light">
+    srcset="">
   <img
     width="100%"
     alt="Nahid Ahmed Shihab animated project constellation"
-    src="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos=nashihab%2Fpersonaltracker%2Cnashihab%2Fdatabase_laptop%2Cnashihab%2Fme%2Cnashihab%2Ftest.IOT-blyink&amp;variant=wow&amp;v=wow-projects-1&amp;mode=dark">
+    src="">
 </picture>
 
 <picture>
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos=nashihab%2Fpersonaltracker%2Cnashihab%2Fdatabase_laptop%2Cnashihab%2Fme%2Cnashihab%2Ftest.IOT-blyink&amp;variant=wow-timeline&amp;v=wow-timeline-1&amp;mode=light">
+    srcset="">
   <img
     width="100%"
     alt="Nahid Ahmed Shihab animated project launch timeline"
-    src="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;repos=nashihab%2Fpersonaltracker%2Cnashihab%2Fdatabase_laptop%2Cnashihab%2Fme%2Cnashihab%2Ftest.IOT-blyink&amp;variant=wow-timeline&amp;v=wow-timeline-1&amp;mode=dark">
+    src="">
 </picture>
 
-<table width="100%">
-<tr>
-
-<td width="25%">
-
-<p><strong><a href="https://github.com/nashihab/personaltracker">personaltracker</a></strong></p>
-
-<p>Personal Daily log book</p>
-
-<p><sub>Jupyter Notebook · ⭐ 0</sub></p>
-
-</td>
-
-<td width="25%">
-
-<p><strong><a href="https://github.com/nashihab/database_laptop">database_laptop</a></strong></p>
-
-<p>A selected project from this public body of work.</p>
-
-<p><sub>Open source · ⭐ 0</sub></p>
-
-</td>
-
-<td width="25%">
-
-<p><strong><a href="https://github.com/nashihab/me">me</a></strong></p>
-
-<p>A selected project from this public body of work.</p>
-
-<p><sub>CSS · ⭐ 1</sub></p>
-
-</td>
-
-<td width="25%">
-
-<p><strong><a href="https://github.com/nashihab/test.IOT-blyink">test.IOT-blyink</a></strong></p>
-
-<p>A selected project from this public body of work.</p>
-
-<p><sub>C++ · ⭐ 0</sub></p>
-
-</td>
-
-</tr>
-</table>
+<!-- PROJECTS_END -->
 
 <br>
-
 <!-- =========================================================
      MOMENTUM
      ========================================================= -->
