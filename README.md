@@ -399,6 +399,20 @@ Automation · Hardware
     alt="">
 </p>
 
+
+<div align="center">
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about craft, context, and shipping the useful version.</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;website=nashihab.github.io&amp;variant=wow&amp;v=wow-social-1&amp;mode=light">
+  <img width="100%" alt="Nahid Ahmed Shihab contact links" src="https://www.gitskins.com/api/section/social?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;website=nashihab.github.io&amp;variant=wow&amp;v=wow-social-1&amp;mode=dark">
+</picture>
+<p><a href="https://github.com/nashihab">GitHub</a> &nbsp;·&nbsp; <a href="https://nashihab.github.io">Website</a></p>
+<p><sub>Nahid Ahmed Shihab · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div></article>
+
+
 <p align="center">
   <sub>Circuits. Silicon. Code. Repeat.</sub>
 </p>
