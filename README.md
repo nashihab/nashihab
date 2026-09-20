@@ -157,7 +157,7 @@ Shell · AI / ML
      SELECTED BUILDS
      ========================= -->
 
-<h2 align="center">🚀 SELECTED BUILDS</h2>
+<h2 align="center">🚀 Project BUILDS</h2>
 
 <table align="center">
 <tr>
