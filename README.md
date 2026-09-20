@@ -383,9 +383,6 @@ Probably debugging
   <a href="https://github.com/nashihab">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/nashihab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-  </a>
   <a href="https://nashihab.github.io">
     <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF">
   </a>
