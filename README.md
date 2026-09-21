@@ -25,6 +25,13 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D744c9a15af7f3364a7e631335086b322c6fcb7c6%26v%3D4&amp;variant=living-identity&amp;label=nashihab&amp;v=wow-living-identity-1&amp;mode=light">
   <img width="100%" alt="nashihab animated Living Identity portrait and ASCII name" src="https://www.gitskins.com/api/section/hero?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D744c9a15af7f3364a7e631335086b322c6fcb7c6%26v%3D4&amp;variant=living-identity&amp;label=nashihab&amp;v=wow-living-identity-1&amp;mode=dark">
 </picture>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=IC+Physical+Design+Engineer;PnR+%7C+CTS+%7C+MMMC+%7C+Timing;Embedded+Systems+%7C+IoT+%7C+Robotics;VLSI+%7C+Automation+%7C+Hardware;RTL+%E2%86%92+GDSII"
+    alt="Nahid Ahmed Shihab">
+</p >
+
 <p align="center">
   <a href="https://github.com/nashihab">
     <img src="https://komarev.com/ghpvc/?username=nashihab&style=flat-square&color=58A6FF&label=PROFILE+VIEWS">
@@ -32,11 +39,7 @@
   <img src="https://img.shields.io/github/followers/nashihab?style=flat-square&label=FOLLOWERS&color=161b22&labelColor=0d1117">
   <img src="https://img.shields.io/github/stars/nashihab?style=flat-square&label=STARS&color=161b22&labelColor=0d1117">
 </p>
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=IC+Physical+Design+Engineer;PnR+%7C+CTS+%7C+MMMC+%7C+Timing;Embedded+Systems+%7C+IoT+%7C+Robotics;VLSI+%7C+Automation+%7C+Hardware;RTL+%E2%86%92+GDSII"
-    alt="Nahid Ahmed Shihab">
-</p >
+
 
 </div>
 <br>
