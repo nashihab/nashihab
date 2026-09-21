@@ -38,9 +38,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D744c9a15af7f3364a7e631335086b322c6fcb7c6%26v%3D4&amp;variant=living-identity&amp;label=nashihab&amp;v=wow-living-identity-1&amp;mode=light">
   <img width="100%" alt="nashihab animated Living Identity portrait and ASCII name" src="https://www.gitskins.com/api/section/hero?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D744c9a15af7f3364a7e631335086b322c6fcb7c6%26v%3D4&amp;variant=living-identity&amp;label=nashihab&amp;v=wow-living-identity-1&amp;mode=dark">
 </picture>
-<p><strong>Frontend or full-stack engineer</strong> · the public internet</p>
-<p>Building useful things and sharing the work in public.</p>
-<p><a href="https://github.com/nashihab">GitHub</a> &nbsp;·&nbsp; <a href="https://nashihab.github.io">Website</a></p>
 </div>
 <br>
 
