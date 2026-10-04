@@ -277,7 +277,7 @@ ESP-based vending systems
 </picture>
 
 <p align="center">
-  <sub>Contribution activity · the work leaves a trail.</sub>
+  <sub>Making Stuff · Just for Hobby</sub>
 </p>
 <!-- =========================
      SPACE SHOOTER
