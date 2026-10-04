@@ -222,7 +222,7 @@ ESP-based vending systems
      ========================================================= -->
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-<h2>Built, shipped, shared</h2>
+<h2>Making Stuff · Just for Hobby</h2>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D7128109e82434a69c3639c6f3b7d23589944144a%26v%3D4&amp;repos=nashihab%2Fsite%2Cnashihab%2Fhex-gen%2Cnashihab%2Fnashihab.github.io%2Cnashihab%2FAutoFileOrganizer&amp;variant=wow&amp;v=wow-projects-1&amp;mode=light">
   <img width="100%" alt="Nahid Ahmed Shihab animated project constellation" src="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D7128109e82434a69c3639c6f3b7d23589944144a%26v%3D4&amp;repos=nashihab%2Fsite%2Cnashihab%2Fhex-gen%2Cnashihab%2Fnashihab.github.io%2Cnashihab%2FAutoFileOrganizer&amp;variant=wow&amp;v=wow-projects-1&amp;mode=dark">
