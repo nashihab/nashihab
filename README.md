@@ -287,7 +287,7 @@ ESP-based vending systems
   <sub>✦ ───────────────────────────── ✦</sub>
 </p>
 
-<h2 align="center"> CONTRIBUTION MODE</h2>
+<!--h2 align="center"> CONTRIBUTION MODE</h2>
 
 <p align="center">
   <img
@@ -306,7 +306,7 @@ ESP-based vending systems
      CURRENTLY
      ========================= -->
 
-<table align="center">
+<!--table align="center">
 <tr>
 
 <td align="center" width="220">
