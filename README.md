@@ -231,8 +231,6 @@ ESP-based vending systems
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D7128109e82434a69c3639c6f3b7d23589944144a%26v%3D4&amp;repos=nashihab%2Fsite%2Cnashihab%2Fhex-gen%2Cnashihab%2Fnashihab.github.io%2Cnashihab%2FAutoFileOrganizer&amp;variant=wow-timeline&amp;v=wow-timeline-1&amp;mode=light">
   <img width="100%" alt="Nahid Ahmed Shihab animated project launch timeline" src="https://www.gitskins.com/api/section/projects?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D7128109e82434a69c3639c6f3b7d23589944144a%26v%3D4&amp;repos=nashihab%2Fsite%2Cnashihab%2Fhex-gen%2Cnashihab%2Fnashihab.github.io%2Cnashihab%2FAutoFileOrganizer&amp;variant=wow-timeline&amp;v=wow-timeline-1&amp;mode=dark">
 </picture>
-<table width="100%"><tbody><tr><td width="25%"><p><strong><a href="https://github.com/foolscap_pdfeditor">foolscap_pdfeditor</a></strong></p><p>A selected project from this public body of work.</p><p><sub>HTML · ⭐ 0</sub></p></td><td width="25%"><p><strong><a href="https://github.com/nashihab/OpenSoccerBot-site">OpenSoccerBot-site</a></strong></p><p>OpenSource</p><p><sub>C++ · ⭐ 0</sub></p></td><td width="25%"><p><strong><a href="https://github.com/nashihab/nashihab.github.io">nashihab.github.io</a></strong></p><p>Personal Website</p><p><sub>CSS · ⭐ 0</sub></p></td><td width="25%"><p><strong><a href="https://github.com/nashihab/AutoFileOrganizer">AutoFileOrganizer</a></strong></p><p>A selected project from this public body of work.</p><p><sub>Batchfile · ⭐ 0</sub></p></td></tr></tbody></table>
-</p>
 
 <!-- =========================================================
      MOMENTUM
@@ -263,18 +261,6 @@ ESP-based vending systems
 <p align="center">
   <sub>✦ ───────────────────────────── ✦</sub>
 </p>
-
-<h2>The trail behind the work</h2>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://www.gitskins.com/api/section/heatmap?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;variant=wow&amp;v=wow-heatmap-1&amp;mode=light">
-  <img
-    width="100%"
-    alt="Nahid Ahmed Shihab contribution energy field"
-    src="https://www.gitskins.com/api/section/heatmap?username=nashihab&amp;theme=aurora&amp;avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F82781075%3Fu%3D50dfb7d0c992b4cbc2f4e7e4c853957d2e7cd699%26v%3D4&amp;variant=wow&amp;v=wow-heatmap-1&amp;mode=dark">
-</picture>
 
 <p align="center">
   <sub>Making Stuff · Just for Hobby</sub>
