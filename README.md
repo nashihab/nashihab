@@ -344,19 +344,6 @@ Automation · Hardware
      CONNECT
      ========================= -->
 
-<h2 align="center">⌁ CONNECT</h2>
-
-<p align="center">
-
-<a href="https://github.com/nashihab">
-  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ffffff">
-</a>
-
-<a href="https://nashihab.github.io">
-  <img src="https://img.shields.io/badge/Website-0d1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF">
-</a>
-
-</p>
 
 <br>
 
