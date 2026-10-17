@@ -30,7 +30,13 @@
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=ASIC+Physical+Design+Engineer;PnR+%7C+CTS+%7C+MMMC+%7C+Timing;Embedded+Systems+%7C+IoT+%7C+Robotics;VLSI+%7C+Automation+%7C+Hardware;RTL+%E2%86%92+GDSII"
     alt="Nahid Ahmed Shihab">
 </p >
-
+<p align="center">
+  <a href="https://github.com/nashihab">
+    <img src="https://komarev.com/ghpvc/?username=nashihab&style=flat-square&color=58A6FF&label=PROFILE+VIEWS">
+  </a>
+  <img src="https://img.shields.io/github/followers/nashihab?style=flat-square&label=FOLLOWERS&color=161b22&labelColor=0d1117">
+  <img src="https://img.shields.io/github/stars/nashihab?style=flat-square&label=STARS&color=161b22&labelColor=0d1117">
+</p> 
 </div>
 <br>
 
