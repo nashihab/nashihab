@@ -156,67 +156,6 @@ Shell · AI / ML
 
 <br>
 
-<!-- =========================
-     SELECTED BUILDS
-     ========================= -->
-
-<h2 align="center">🚀 Project BUILDS</h2>
-
-<table align="center">
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>🛰️ DIPTO Nano-Satellite</h3>
-
-Project Lead
-
-`OBC` · `EPS` · `COM` · `Payload`
-`Ground Station` · `Telemetry`
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🤖 Robotics Systems</h3>
-
-UAV · UGV · ROV
-
-`IMU` · `GPS` · `LiDAR`
-`Encoders` · `ROS` · `Gazebo`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>⚡ EV Power Electronics</h3>
-
-3.5 kW charger
-
-**95.67% measured efficiency**
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>🔧 Offline IoT</h3>
-
-ESP-based vending systems
-
-`RFID/NFC` · `SQLite` · `HIL`
-`Firmware` · `Control` · `Power`
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 <!-- =========================================================
     PROJECT CONSTELLATION
      ========================================================= -->
