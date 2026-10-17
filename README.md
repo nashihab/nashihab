@@ -37,9 +37,7 @@
   </a>
   <img src="https://img.shields.io/github/followers/nashihab?style=flat-square&label=FOLLOWERS&color=161b22&labelColor=0d1117">
   <img src="https://img.shields.io/github/stars/nashihab?style=flat-square&label=STARS&color=161b22&labelColor=0d1117">
-</p>
-
-
+</p> 
 </div>
 <br>
 
