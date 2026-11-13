@@ -1,22 +1,65 @@
-<p align="center"><img src="assets/hero.svg" width="100%" alt="Nahid Ahmed Shihab — ASIC Physical Design Engineer"></p>
+<p align="center"><img src="hero.svg" width="100%" alt="Nahid Ahmed Shihab — ASIC Physical Design Engineer"></p>
 
-<p align="center"><img src="assets/h-profile.svg" width="100%" alt="01 Profile"></p>
-<p align="center"><img src="assets/datasheet.svg" width="100%" alt="Datasheet"></p>
+<br>
 
-<p align="center"><img src="assets/h-arsenal.svg" width="100%" alt="02 Tech arsenal"></p>
-<p align="center"><img src="assets/stack.svg" width="100%" alt="Tech stack"></p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<p align="center"><img src="assets/h-flow.svg" width="100%" alt="03 IC physical design"></p>
-<p align="center"><img src="assets/flow.svg" width="100%" alt="RTL to GDSII flow"></p>
-<p align="center"><img src="assets/closure.svg" width="100%" alt="Timing closure"></p>
+**Silicon**<br>
+<sub>ASIC physical design</sub>
 
-<p align="center"><img src="assets/h-projects.svg" width="100%" alt="04 Making stuff"></p>
-<p align="center"><img src="assets/projects.svg" width="100%" alt="Projects"></p>
+Place & route, clock tree synthesis, multi-mode multi-corner timing, STA and physical verification.
 
-<p align="center"><img src="assets/h-stats.svg" width="100%" alt="05 Momentum"></p>
-<p align="center"><img src="assets/stats.svg" width="100%" alt="GitHub stats"></p>
-<p align="center"><img src="assets/activity.svg" width="100%" alt="Contribution matrix"></p>
+</td>
+<td width="33%" valign="top">
 
-<p align="center"><img src="assets/footer.svg" width="100%" alt="Circuits. Silicon. Code. Repeat."></p>
+**Systems**<br>
+<sub>Embedded · IoT · Robotics</sub>
 
-<p align="center"><a href="https://github.com/nashihab">GitHub</a> &nbsp;·&nbsp; <a href="https://nashihab.github.io">Website</a></p>
+Firmware, hardware and control for nano-satellite, UAV, UGV and ROV projects.
+
+</td>
+<td width="33%" valign="top">
+
+**Automation**<br>
+<sub>Scripting · AI / ML</sub>
+
+Python, Tcl and shell for flows and tooling, plus ML and workflow automation.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### Stack
+
+**Languages** &nbsp; `Python` `C` `C++` `Verilog` `Tcl` `Shell` `JavaScript` `HTML` `CSS` `SCSS`
+
+**Hardware** &nbsp; `ESP32` `STM32` `Arduino` `Raspberry Pi` `Altium` `KiCad`
+
+**Tools** &nbsp; `Linux` `Git` `MATLAB` `OpenCV` `ROS` `TensorFlow` `n8n` `VS Code`
+
+<br>
+
+### Making things, just for hobby
+
+- [**AutoFileOrganizer**](https://github.com/nashihab/AutoFileOrganizer)
+- [**hex-gen**](https://github.com/nashihab/hex-gen)
+- [**site**](https://github.com/nashihab/site)
+- [**nashihab.github.io**](https://github.com/nashihab/nashihab.github.io)
+
+<br>
+
+### Now
+
+Learning optoelectronics.
+
+<br>
+
+<p align="center">
+  <a href="https://nashihab.github.io">Website</a> &nbsp;·&nbsp; <a href="https://github.com/nashihab">GitHub</a>
+  <br><br>
+  <sub>Circuits. Silicon. Code. Repeat.</sub>
+</p>
