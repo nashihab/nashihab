@@ -11,7 +11,7 @@
   <a href="https://github.com/nashihab/AutoFileOrganizer"><img src="assets/p1.svg" width="48.5%" alt="AutoFileOrganizer"></a>
   <a href="https://github.com/nashihab/hex-gen"><img src="assets/p2.svg" width="48.5%" alt="hex-gen"></a>
   <a href="https://github.com/nashihab/site"><img src="assets/p3.svg" width="48.5%" alt="site"></a>
-  <a href="https://github.com/nashihab/foolscap_pdfeditor"><img src="assets/" width="48.5%" alt="foolscap_pdfeditor"></a>
+  <a href="https://github.com/nashihab/foolscap_pdfeditor"><img src="assets/p4.svg" width="48.5%" alt="foolscap_pdfeditor"></a>
 </p>
 
 <p align="center"><img src="assets/now.svg" width="100%" alt="Currently learning optoelectronics"></p>
