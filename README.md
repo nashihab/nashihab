@@ -1,65 +1,25 @@
-<p align="center"><img src="hero.svg" width="100%" alt="Nahid Ahmed Shihab — ASIC Physical Design Engineer"></p>
+<p align="center"><img src="assets/hero.svg" width="100%" alt="Nahid Ahmed Shihab — ASIC Physical Design Engineer"></p>
 
-<br>
+<p align="center"><img src="assets/sec-focus.svg" width="100%" alt="Focus"></p>
+<p align="center"><img src="assets/focus.svg" width="100%" alt="Silicon, Systems, Automation"></p>
 
-<table>
-<tr>
-<td width="33%" valign="top">
+<p align="center"><img src="assets/sec-stack.svg" width="100%" alt="Stack"></p>
+<p align="center"><img src="assets/stack.svg" width="100%" alt="Stack as a periodic table of tools"></p>
 
-**Silicon**<br>
-<sub>ASIC physical design</sub>
+<p align="center"><img src="assets/sec-making.svg" width="100%" alt="Making things"></p>
+<p align="center">
+  <a href="https://github.com/nashihab/AutoFileOrganizer"><img src="assets/p1.svg" width="48.5%" alt="AutoFileOrganizer"></a>
+  <a href="https://github.com/nashihab/hex-gen"><img src="assets/p2.svg" width="48.5%" alt="hex-gen"></a>
+  <a href="https://github.com/nashihab/site"><img src="assets/p3.svg" width="48.5%" alt="site"></a>
+  <a href="https://github.com/nashihab/nashihab.github.io"><img src="assets/p4.svg" width="48.5%" alt="nashihab.github.io"></a>
+</p>
 
-Place & route, clock tree synthesis, multi-mode multi-corner timing, STA and physical verification.
-
-</td>
-<td width="33%" valign="top">
-
-**Systems**<br>
-<sub>Embedded · IoT · Robotics</sub>
-
-Firmware, hardware and control for nano-satellite, UAV, UGV and ROV projects.
-
-</td>
-<td width="33%" valign="top">
-
-**Automation**<br>
-<sub>Scripting · AI / ML</sub>
-
-Python, Tcl and shell for flows and tooling, plus ML and workflow automation.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### Stack
-
-**Languages** &nbsp; `Python` `C` `C++` `Verilog` `Tcl` `Shell` `JavaScript` `HTML` `CSS` `SCSS`
-
-**Hardware** &nbsp; `ESP32` `STM32` `Arduino` `Raspberry Pi` `Altium` `KiCad`
-
-**Tools** &nbsp; `Linux` `Git` `MATLAB` `OpenCV` `ROS` `TensorFlow` `n8n` `VS Code`
-
-<br>
-
-### Making things, just for hobby
-
-- [**AutoFileOrganizer**](https://github.com/nashihab/AutoFileOrganizer)
-- [**hex-gen**](https://github.com/nashihab/hex-gen)
-- [**site**](https://github.com/nashihab/site)
-- [**nashihab.github.io**](https://github.com/nashihab/nashihab.github.io)
-
-<br>
-
-### Now
-
-Learning optoelectronics.
-
-<br>
+<p align="center"><img src="assets/now.svg" width="100%" alt="Currently learning optoelectronics"></p>
 
 <p align="center">
-  <a href="https://nashihab.github.io">Website</a> &nbsp;·&nbsp; <a href="https://github.com/nashihab">GitHub</a>
-  <br><br>
-  <sub>Circuits. Silicon. Code. Repeat.</sub>
+  <a href="https://nashihab.github.io"><img src="assets/btn-website.svg" height="46" alt="Website"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/nashihab"><img src="assets/btn-github.svg" height="46" alt="GitHub"></a>
 </p>
+
+<p align="center"><img src="assets/footer.svg" width="100%" alt="Circuits. Silicon. Code. Repeat."></p>
